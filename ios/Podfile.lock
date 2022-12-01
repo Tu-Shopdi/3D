@@ -1,0 +1,28 @@
+PODS:
+  - arkit_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - image_gallery_saver (1.5.0):
+    - Flutter
+
+DEPENDENCIES:
+  - arkit_plugin (from `.symlinks/plugins/arkit_plugin/ios`)
+  - Flutter (from `Flutter`)
+  - image_gallery_saver (from `.symlinks/plugins/image_gallery_saver/ios`)
+
+EXTERNAL SOURCES:
+  arkit_plugin:
+    :path: ".symlinks/plugins/arkit_plugin/ios"
+  Flutter:
+    :path: Flutter
+  image_gallery_saver:
+    :path: ".symlinks/plugins/image_gallery_saver/ios"
+
+SPEC CHECKSUMS:
+  arkit_plugin: 3e42571e8be84adabb8a178bd51c22fa981e16bd
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  image_gallery_saver: 259eab68fb271cfd57d599904f7acdc7832e7ef2
+
+PODFILE CHECKSUM: 0dbd5a87e0ace00c9610d2037ac22083a01f861d
+
+COCOAPODS: 1.11.3
